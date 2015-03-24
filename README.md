@@ -1,2 +1,3 @@
-# hacker-rank
-My solutions for the programming challenges at 
+This repository contains my solutions for the programming challenges at [HackerRank](https://www.hackerrank.com).
+
+
